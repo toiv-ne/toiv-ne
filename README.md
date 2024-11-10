@@ -32,8 +32,3 @@ Here are some ideas to get you started:
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=toiv-ne&show_icons=true&theme=gotham" alt="Quinny">
-
-
-#### My Boys
-
-<p align="center"> <img src="https://imgur.com/a/Lp2ogA9">
