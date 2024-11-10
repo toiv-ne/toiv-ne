@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 #### My Boys
 
-<p align="center"> <img src="https://imgur.com/a/Lp2ogA9"> https://imgur.com/a/Lp2ogA9
+<p align="center"> <img src="https://imgur.com/a/Lp2ogA9">
