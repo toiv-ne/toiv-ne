@@ -13,19 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...she/her/they
 - ⚡ Fun fact: ...I am a meme connoisseur and custom gif generator
 -->
-# Salutations!
+## Salutations!
 
-## I'm currently attending ASU studying Graphic Information Technology and Focusing on User Experience/User Interface! I enjoy HTML and creating graphics. I hope to finish my Bachelors as soon as possible and beginning work on my Masters. I also love game development, playing video games, reading, and writing (currently only short stories).
+### I'm currently attending ASU studying Graphic Information Technology and Focusing on User Experience/User Interface! I enjoy HTML and creating graphics. I hope to finish my Bachelors as soon as possible and beginning work on my Masters. I also love game development, playing video games, reading, and writing (currently only short stories).
 
 
-- 🌱 My Current Behance Profile: https://www.behance.net/quinntoivonen
+- 🌱 My Current <a href="https://www.behance.net/quinntoivonen" target="_blank">Behance Profile</a>
 - 🔭 I’m currently working on ... getting a degree and a job!
 - 🌱 I’m currently learning ... HTML/CSS and Astronomy
 - 🤔 I’m looking for help with ... a lot. Ha.
-- 💬 Ask me about ...well read bread
+- 💬 Ask me about ... well read bread.
 - 📫 How to reach me: ... [email](mailto:qtoivone@gmail.com) 
-- 😄 Pronouns: ...she/her/they 🏳️‍🌈
-- ⚡ Fun fact: ...I am a meme connoisseur ☠️ and custom gif generator 🍉
+- 😄 Pronouns: ... she/her/they 🏳️‍🌈
+- ⚡ Fun fact: ... I am a meme connoisseur ☠️ and custom gif generator 🍉
+
+
 
 📈 my github stats
 
